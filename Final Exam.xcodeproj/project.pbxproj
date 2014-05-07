@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2523D21C1919CBD300B23071 /* SGViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2523D21B1919CBD300B23071 /* SGViewController.m */; };
+		2523D2211919CC4B00B23071 /* HGView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2523D21E1919CC4B00B23071 /* HGView.m */; };
+		2523D2221919CC4B00B23071 /* SGView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2523D2201919CC4B00B23071 /* SGView.m */; };
+		2523D24E1919ED5900B23071 /* muhback.png in Resources */ = {isa = PBXBuildFile; fileRef = 2523D2451919ED5900B23071 /* muhback.png */; };
+		2523D285191ABFDE00B23071 /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = 2523D27C191ABFDE00B23071 /* Card.m */; };
+		2523D286191ABFDE00B23071 /* Deck.m in Sources */ = {isa = PBXBuildFile; fileRef = 2523D27E191ABFDE00B23071 /* Deck.m */; };
+		2523D287191ABFDE00B23071 /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 2523D280191ABFDE00B23071 /* PlayingCard.m */; };
+		2523D288191ABFDE00B23071 /* Test1bCardMatchingGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 2523D282191ABFDE00B23071 /* Test1bCardMatchingGame.m */; };
+		2523D289191ABFDE00B23071 /* Test1bViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2523D284191ABFDE00B23071 /* Test1bViewController.m */; };
+		259B1CF8191ACBF7000BEA1A /* cardtabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = 259B1CEF191ACBF7000BEA1A /* cardtabbaritem.png */; };
+		259B1CFB191ACBF7000BEA1A /* etchtabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = 259B1CF4191ACBF7000BEA1A /* etchtabbaritem.png */; };
+		259B1CFC191ACBF7000BEA1A /* fifteentabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = 259B1CF5191ACBF7000BEA1A /* fifteentabbaritem.png */; };
+		259B1CFD191ACBF7000BEA1A /* redframer.png in Resources */ = {isa = PBXBuildFile; fileRef = 259B1CF6191ACBF7000BEA1A /* redframer.png */; };
+		259B1CFE191ACBF7000BEA1A /* spirotabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = 259B1CF7191ACBF7000BEA1A /* spirotabbaritem.png */; };
 		25A758C91918274300167909 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25A758C81918274300167909 /* Foundation.framework */; };
 		25A758CB1918274300167909 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25A758CA1918274300167909 /* CoreGraphics.framework */; };
 		25A758CD1918274300167909 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25A758CC1918274300167909 /* UIKit.framework */; };
@@ -21,6 +35,28 @@
 		25A758EA1918274300167909 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25A758CC1918274300167909 /* UIKit.framework */; };
 		25A758F21918274300167909 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 25A758F01918274300167909 /* InfoPlist.strings */; };
 		25A758F41918274300167909 /* Final_ExamTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 25A758F31918274300167909 /* Final_ExamTests.m */; };
+		25A7595F19182F6600167909 /* blank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7594919182F6500167909 /* blank.jpg */; };
+		25A7596019182F6600167909 /* eight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7594A19182F6500167909 /* eight.jpg */; };
+		25A7596119182F6600167909 /* eleven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7594B19182F6500167909 /* eleven.jpg */; };
+		25A7596219182F6600167909 /* fifteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7594C19182F6500167909 /* fifteen.jpg */; };
+		25A7596319182F6600167909 /* five.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7594D19182F6500167909 /* five.jpg */; };
+		25A7596419182F6600167909 /* four.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7594E19182F6500167909 /* four.jpg */; };
+		25A7596519182F6600167909 /* fourteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7594F19182F6500167909 /* fourteen.jpg */; };
+		25A7596619182F6600167909 /* FPButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 25A7595119182F6500167909 /* FPButton.m */; };
+		25A7596719182F6600167909 /* FPButtonModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 25A7595319182F6500167909 /* FPButtonModel.m */; };
+		25A7596819182F6600167909 /* FPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25A7595519182F6500167909 /* FPViewController.m */; };
+		25A7596919182F6600167909 /* nine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7595619182F6500167909 /* nine.jpg */; };
+		25A7596A19182F6600167909 /* one.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7595719182F6500167909 /* one.jpg */; };
+		25A7596B19182F6600167909 /* seven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7595819182F6500167909 /* seven.jpg */; };
+		25A7596C19182F6600167909 /* six.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7595919182F6500167909 /* six.jpg */; };
+		25A7596D19182F6600167909 /* ten.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7595A19182F6500167909 /* ten.jpg */; };
+		25A7596E19182F6600167909 /* thirteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7595B19182F6500167909 /* thirteen.jpg */; };
+		25A7596F19182F6600167909 /* three.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7595C19182F6500167909 /* three.jpg */; };
+		25A7597019182F6600167909 /* twelve.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7595D19182F6500167909 /* twelve.jpg */; };
+		25A7597119182F6600167909 /* two.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25A7595E19182F6600167909 /* two.jpg */; };
+		25A7597719197F7200167909 /* EASView.m in Sources */ = {isa = PBXBuildFile; fileRef = 25A7597319197F7200167909 /* EASView.m */; };
+		25A7597819197F7200167909 /* EASViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25A7597519197F7200167909 /* EASViewController.m */; };
+		25A7597919197F7200167909 /* redframe.png in Resources */ = {isa = PBXBuildFile; fileRef = 25A7597619197F7200167909 /* redframe.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +70,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2523D21A1919CBD300B23071 /* SGViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SGViewController.h; path = ../SGViewController.h; sourceTree = "<group>"; };
+		2523D21B1919CBD300B23071 /* SGViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SGViewController.m; path = ../SGViewController.m; sourceTree = "<group>"; };
+		2523D21D1919CC4B00B23071 /* HGView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HGView.h; sourceTree = "<group>"; };
+		2523D21E1919CC4B00B23071 /* HGView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HGView.m; sourceTree = "<group>"; };
+		2523D21F1919CC4B00B23071 /* SGView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGView.h; sourceTree = "<group>"; };
+		2523D2201919CC4B00B23071 /* SGView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGView.m; sourceTree = "<group>"; };
+		2523D2451919ED5900B23071 /* muhback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = muhback.png; path = ../muhback.png; sourceTree = "<group>"; };
+		2523D27B191ABFDE00B23071 /* Card.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Card.h; sourceTree = "<group>"; };
+		2523D27C191ABFDE00B23071 /* Card.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Card.m; sourceTree = "<group>"; };
+		2523D27D191ABFDE00B23071 /* Deck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Deck.h; sourceTree = "<group>"; };
+		2523D27E191ABFDE00B23071 /* Deck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Deck.m; sourceTree = "<group>"; };
+		2523D27F191ABFDE00B23071 /* PlayingCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCard.h; sourceTree = "<group>"; };
+		2523D280191ABFDE00B23071 /* PlayingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCard.m; sourceTree = "<group>"; };
+		2523D281191ABFDE00B23071 /* Test1bCardMatchingGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test1bCardMatchingGame.h; sourceTree = "<group>"; };
+		2523D282191ABFDE00B23071 /* Test1bCardMatchingGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test1bCardMatchingGame.m; sourceTree = "<group>"; };
+		2523D283191ABFDE00B23071 /* Test1bViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test1bViewController.h; sourceTree = "<group>"; };
+		2523D284191ABFDE00B23071 /* Test1bViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test1bViewController.m; sourceTree = "<group>"; };
+		259B1CEF191ACBF7000BEA1A /* cardtabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardtabbaritem.png; sourceTree = "<group>"; };
+		259B1CF4191ACBF7000BEA1A /* etchtabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = etchtabbaritem.png; sourceTree = "<group>"; };
+		259B1CF5191ACBF7000BEA1A /* fifteentabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fifteentabbaritem.png; sourceTree = "<group>"; };
+		259B1CF6191ACBF7000BEA1A /* redframer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redframer.png; sourceTree = "<group>"; };
+		259B1CF7191ACBF7000BEA1A /* spirotabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spirotabbaritem.png; sourceTree = "<group>"; };
 		25A758C51918274300167909 /* Final Exam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final Exam.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		25A758C81918274300167909 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		25A758CA1918274300167909 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +111,33 @@
 		25A758EF1918274300167909 /* Final ExamTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Final ExamTests-Info.plist"; sourceTree = "<group>"; };
 		25A758F11918274300167909 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		25A758F31918274300167909 /* Final_ExamTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Final_ExamTests.m; sourceTree = "<group>"; };
+		25A7594919182F6500167909 /* blank.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = blank.jpg; path = ../blank.jpg; sourceTree = "<group>"; };
+		25A7594A19182F6500167909 /* eight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eight.jpg; path = ../eight.jpg; sourceTree = "<group>"; };
+		25A7594B19182F6500167909 /* eleven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = eleven.jpg; path = ../eleven.jpg; sourceTree = "<group>"; };
+		25A7594C19182F6500167909 /* fifteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fifteen.jpg; path = ../fifteen.jpg; sourceTree = "<group>"; };
+		25A7594D19182F6500167909 /* five.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = five.jpg; path = ../five.jpg; sourceTree = "<group>"; };
+		25A7594E19182F6500167909 /* four.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = four.jpg; path = ../four.jpg; sourceTree = "<group>"; };
+		25A7594F19182F6500167909 /* fourteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fourteen.jpg; path = ../fourteen.jpg; sourceTree = "<group>"; };
+		25A7595019182F6500167909 /* FPButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FPButton.h; path = ../FPButton.h; sourceTree = "<group>"; };
+		25A7595119182F6500167909 /* FPButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FPButton.m; path = ../FPButton.m; sourceTree = "<group>"; };
+		25A7595219182F6500167909 /* FPButtonModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FPButtonModel.h; path = ../FPButtonModel.h; sourceTree = "<group>"; };
+		25A7595319182F6500167909 /* FPButtonModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FPButtonModel.m; path = ../FPButtonModel.m; sourceTree = "<group>"; };
+		25A7595419182F6500167909 /* FPViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FPViewController.h; path = ../FPViewController.h; sourceTree = "<group>"; };
+		25A7595519182F6500167909 /* FPViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FPViewController.m; path = ../FPViewController.m; sourceTree = "<group>"; };
+		25A7595619182F6500167909 /* nine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nine.jpg; path = ../nine.jpg; sourceTree = "<group>"; };
+		25A7595719182F6500167909 /* one.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = one.jpg; path = ../one.jpg; sourceTree = "<group>"; };
+		25A7595819182F6500167909 /* seven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = seven.jpg; path = ../seven.jpg; sourceTree = "<group>"; };
+		25A7595919182F6500167909 /* six.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = six.jpg; path = ../six.jpg; sourceTree = "<group>"; };
+		25A7595A19182F6500167909 /* ten.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ten.jpg; path = ../ten.jpg; sourceTree = "<group>"; };
+		25A7595B19182F6500167909 /* thirteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = thirteen.jpg; path = ../thirteen.jpg; sourceTree = "<group>"; };
+		25A7595C19182F6500167909 /* three.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = three.jpg; path = ../three.jpg; sourceTree = "<group>"; };
+		25A7595D19182F6500167909 /* twelve.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = twelve.jpg; path = ../twelve.jpg; sourceTree = "<group>"; };
+		25A7595E19182F6600167909 /* two.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = two.jpg; path = ../two.jpg; sourceTree = "<group>"; };
+		25A7597219197F7200167909 /* EASView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EASView.h; sourceTree = "<group>"; };
+		25A7597319197F7200167909 /* EASView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EASView.m; sourceTree = "<group>"; };
+		25A7597419197F7200167909 /* EASViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EASViewController.h; sourceTree = "<group>"; };
+		25A7597519197F7200167909 /* EASViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EASViewController.m; sourceTree = "<group>"; };
+		25A7597619197F7200167909 /* redframe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redframe.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +164,90 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2523D1C41919C05400B23071 /* Etch-A-Sketch */ = {
+			isa = PBXGroup;
+			children = (
+				25A7597619197F7200167909 /* redframe.png */,
+				25A7597219197F7200167909 /* EASView.h */,
+				25A7597319197F7200167909 /* EASView.m */,
+				25A7597419197F7200167909 /* EASViewController.h */,
+				25A7597519197F7200167909 /* EASViewController.m */,
+				259B1CF6191ACBF7000BEA1A /* redframer.png */,
+			);
+			name = "Etch-A-Sketch";
+			sourceTree = "<group>";
+		};
+		2523D1C51919C0D100B23071 /* Slider Puzzle */ = {
+			isa = PBXGroup;
+			children = (
+				25A7594A19182F6500167909 /* eight.jpg */,
+				25A7594919182F6500167909 /* blank.jpg */,
+				25A7594B19182F6500167909 /* eleven.jpg */,
+				25A7594C19182F6500167909 /* fifteen.jpg */,
+				25A7594D19182F6500167909 /* five.jpg */,
+				25A7594E19182F6500167909 /* four.jpg */,
+				25A7594F19182F6500167909 /* fourteen.jpg */,
+				25A7595019182F6500167909 /* FPButton.h */,
+				25A7595119182F6500167909 /* FPButton.m */,
+				25A7595219182F6500167909 /* FPButtonModel.h */,
+				25A7595319182F6500167909 /* FPButtonModel.m */,
+				25A7595419182F6500167909 /* FPViewController.h */,
+				25A7595519182F6500167909 /* FPViewController.m */,
+				25A7595619182F6500167909 /* nine.jpg */,
+				25A7595719182F6500167909 /* one.jpg */,
+				25A7595819182F6500167909 /* seven.jpg */,
+				25A7595919182F6500167909 /* six.jpg */,
+				25A7595A19182F6500167909 /* ten.jpg */,
+				25A7595B19182F6500167909 /* thirteen.jpg */,
+				25A7595C19182F6500167909 /* three.jpg */,
+				25A7595D19182F6500167909 /* twelve.jpg */,
+				25A7595E19182F6600167909 /* two.jpg */,
+			);
+			name = "Slider Puzzle";
+			sourceTree = "<group>";
+		};
+		2523D1C61919C0FB00B23071 /* Spirograph */ = {
+			isa = PBXGroup;
+			children = (
+				2523D21D1919CC4B00B23071 /* HGView.h */,
+				2523D21E1919CC4B00B23071 /* HGView.m */,
+				2523D21F1919CC4B00B23071 /* SGView.h */,
+				2523D2201919CC4B00B23071 /* SGView.m */,
+				2523D21A1919CBD300B23071 /* SGViewController.h */,
+				2523D21B1919CBD300B23071 /* SGViewController.m */,
+			);
+			name = Spirograph;
+			sourceTree = "<group>";
+		};
+		2523D2261919DB3200B23071 /* Playing Card Game */ = {
+			isa = PBXGroup;
+			children = (
+				2523D27B191ABFDE00B23071 /* Card.h */,
+				2523D27C191ABFDE00B23071 /* Card.m */,
+				2523D27D191ABFDE00B23071 /* Deck.h */,
+				2523D27E191ABFDE00B23071 /* Deck.m */,
+				2523D27F191ABFDE00B23071 /* PlayingCard.h */,
+				2523D280191ABFDE00B23071 /* PlayingCard.m */,
+				2523D281191ABFDE00B23071 /* Test1bCardMatchingGame.h */,
+				2523D282191ABFDE00B23071 /* Test1bCardMatchingGame.m */,
+				2523D283191ABFDE00B23071 /* Test1bViewController.h */,
+				2523D284191ABFDE00B23071 /* Test1bViewController.m */,
+				2523D2451919ED5900B23071 /* muhback.png */,
+			);
+			name = "Playing Card Game";
+			sourceTree = "<group>";
+		};
+		259B1CFF191ACC0A000BEA1A /* Tab Bar Images */ = {
+			isa = PBXGroup;
+			children = (
+				259B1CEF191ACBF7000BEA1A /* cardtabbaritem.png */,
+				259B1CF4191ACBF7000BEA1A /* etchtabbaritem.png */,
+				259B1CF5191ACBF7000BEA1A /* fifteentabbaritem.png */,
+				259B1CF7191ACBF7000BEA1A /* spirotabbaritem.png */,
+			);
+			name = "Tab Bar Images";
+			sourceTree = "<group>";
+		};
 		25A758BC1918274300167909 = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +281,11 @@
 		25A758CE1918274300167909 /* Final Exam */ = {
 			isa = PBXGroup;
 			children = (
+				2523D1C51919C0D100B23071 /* Slider Puzzle */,
+				2523D1C61919C0FB00B23071 /* Spirograph */,
+				2523D1C41919C05400B23071 /* Etch-A-Sketch */,
+				2523D2261919DB3200B23071 /* Playing Card Game */,
+				259B1CFF191ACC0A000BEA1A /* Tab Bar Images */,
 				25A758D71918274300167909 /* ExamAppDelegate.h */,
 				25A758D81918274300167909 /* ExamAppDelegate.m */,
 				25A758DA1918274300167909 /* Main.storyboard */,
@@ -229,8 +403,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25A7596D19182F6600167909 /* ten.jpg in Resources */,
+				25A7597919197F7200167909 /* redframe.png in Resources */,
+				25A7596B19182F6600167909 /* seven.jpg in Resources */,
+				25A7596F19182F6600167909 /* three.jpg in Resources */,
+				259B1CFD191ACBF7000BEA1A /* redframer.png in Resources */,
+				259B1CFC191ACBF7000BEA1A /* fifteentabbaritem.png in Resources */,
+				25A7596A19182F6600167909 /* one.jpg in Resources */,
+				25A7596C19182F6600167909 /* six.jpg in Resources */,
+				25A7596919182F6600167909 /* nine.jpg in Resources */,
+				25A7596119182F6600167909 /* eleven.jpg in Resources */,
+				25A7596319182F6600167909 /* five.jpg in Resources */,
+				25A7596219182F6600167909 /* fifteen.jpg in Resources */,
+				259B1CF8191ACBF7000BEA1A /* cardtabbaritem.png in Resources */,
+				25A7595F19182F6600167909 /* blank.jpg in Resources */,
+				259B1CFE191ACBF7000BEA1A /* spirotabbaritem.png in Resources */,
+				25A7596419182F6600167909 /* four.jpg in Resources */,
+				2523D24E1919ED5900B23071 /* muhback.png in Resources */,
 				25A758E11918274300167909 /* Images.xcassets in Resources */,
+				25A7596019182F6600167909 /* eight.jpg in Resources */,
+				25A7596519182F6600167909 /* fourteen.jpg in Resources */,
+				25A7597119182F6600167909 /* two.jpg in Resources */,
+				259B1CFB191ACBF7000BEA1A /* etchtabbaritem.png in Resources */,
 				25A758D31918274300167909 /* InfoPlist.strings in Resources */,
+				25A7596E19182F6600167909 /* thirteen.jpg in Resources */,
+				25A7597019182F6600167909 /* twelve.jpg in Resources */,
 				25A758DC1918274300167909 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,9 +447,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2523D286191ABFDE00B23071 /* Deck.m in Sources */,
 				25A758D51918274300167909 /* main.m in Sources */,
+				2523D287191ABFDE00B23071 /* PlayingCard.m in Sources */,
+				2523D289191ABFDE00B23071 /* Test1bViewController.m in Sources */,
+				2523D21C1919CBD300B23071 /* SGViewController.m in Sources */,
 				25A758D91918274300167909 /* ExamAppDelegate.m in Sources */,
+				25A7596819182F6600167909 /* FPViewController.m in Sources */,
 				25A758DF1918274300167909 /* ExamViewController.m in Sources */,
+				25A7597719197F7200167909 /* EASView.m in Sources */,
+				25A7596619182F6600167909 /* FPButton.m in Sources */,
+				25A7597819197F7200167909 /* EASViewController.m in Sources */,
+				2523D288191ABFDE00B23071 /* Test1bCardMatchingGame.m in Sources */,
+				25A7596719182F6600167909 /* FPButtonModel.m in Sources */,
+				2523D2211919CC4B00B23071 /* HGView.m in Sources */,
+				2523D2221919CC4B00B23071 /* SGView.m in Sources */,
+				2523D285191ABFDE00B23071 /* Card.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,6 +667,7 @@
 				25A758F91918274300167909 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		25A758FA1918274300167909 /* Build configuration list for PBXNativeTarget "Final ExamTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +676,7 @@
 				25A758FC1918274300167909 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
